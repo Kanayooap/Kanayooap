@@ -1,3 +1,4 @@
+[german_credit_data_biased_training.csv](https://github.com/Kanayooap/Kanayooap/files/15485868/german_credit_data_biased_training.csv)
 - 👋 Hi, I’m @Kanayooap
 - 👀 I’m interested in sustainable development 
 - 🌱 I’m currently learning ...
